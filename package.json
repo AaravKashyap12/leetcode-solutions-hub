@@ -2,6 +2,7 @@
   "name": "leetcode-solution-hub",
   "version": "1.0.0",
   "description": "A Vercel-hosted API endpoint to receive accepted LeetCode solutions.",
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
