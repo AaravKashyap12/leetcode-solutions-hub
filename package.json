@@ -1,0 +1,23 @@
+{
+  "name": "leetcode-solution-hub",
+  "version": "1.0.0",
+  "description": "A Vercel-hosted API endpoint to receive accepted LeetCode solutions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AaravKashyap12/leetcode-solutions-hub.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AaravKashyap12/leetcode-solutions-hub/issues"
+  },
+  "homepage": "https://github.com/AaravKashyap12/leetcode-solutions-hub#readme",
+  "dependencies": {
+    "@octokit/rest": "^22.0.0"
+  }
+}
